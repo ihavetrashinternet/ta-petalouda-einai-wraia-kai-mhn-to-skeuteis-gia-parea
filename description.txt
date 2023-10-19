@@ -1,4 +1,261 @@
-Due to tmodloader not liking the length of the original description, i will only put here the basic information:
+This mod was made for fun legit.
+If it caught your attention then go ahead and read the change logs for information on what this mod contains
 
-Current Terraria Tmodloader version: 1.4.3.6
-Current Mod version: -----1.4----- 19/10/2023
+Although the mod's author is only Klaniarhs, the following people have contributed to this mod:
+"Megalos Paikths" Co-Designer,
+
+Current Terraria version : 1.4.3.6
+
+CHANGE LOGS:
+
+-----1.4----- 19/10/2023
+
+Updated Blue sworod? :
+     Changed use and animation times from 14 to 18
+     Now shoots terra beam
+Added "Emerarudo Supurasshu!"
+     a pre-hardmode pickaxe that can be used as a weapon
+Added "METALIKH PIPA"
+     a weapon that is the metal pipe falling meme obtainable
+     post-Plantera
+     (and yes it plays the sound on hit)
+Added "DI ORE"
+     i really don't like Dio Brando
+     (they cool as shit)
+     (They buggy as shit)
+Added "Music box (Fire Shaman)"
+     a music box that plays Avdols theme from JoJo
+     (HOLYFUCKINGSHITISTHATAMOTHEFUCKINGJOJOREFERENCE!?!?!?!?)
+Added "Jotaro hat"
+     Jotaro Kujo's hat from Part 3 very cool very cool
+Renamed "Festivized Nutcracker Mk.II Shotgun FN" to "Karampina me fotakia"
+Added "Golda DI ORE"
+     an "upgrade" to "DI Ore" that , you know jus allows you
+     to shoot faster, yea thats it
+     (They buggy as shit)
+Added "Bolta actione padofla"
+     not an actual padofla
+Added "Mototaxi Torito Bajaj"
+     a mount, yea, noice
+Added "Pakistaniko bazooka"
+    an upgrade to "Ol' Crappy" made by Megalos Paikths
+Fixxed "Emerarudo Supurasshu!" not being visible during primary swing after being alt fired. However, this bug can still happen although very unlikely
+Added "Aluminium sheet"
+     an inaccurate material
+Added "Worse sheet"
+     an useless item
+Added "Peguino paei"
+     a penguin shooting gun :)
+Added "Boulderino"
+     a boulder shooter, although it can damage it's user
+Added "Thompson""
+     a gun yas
+Added "M16"
+.....a gun that can fire in 3 different modes
+Added "Terra sword"
+     a Terra falcon blade 
+Adeed "Ananas"
+     an accessory that gives dashing abilities
+Updates the changelogs
+.... replaced the spaces dots instead of spaces because the description
+.... on the Steam Workshop doesn't like it when there's more than one space
+Added "Code T"
+     a yoyo crafted with the Code 1 and a broken hero sword
+Added "Type 99"
+     fast gun okay?
+     from Call of Duty World at War
+Added "Marksman"
+     the second variation of the revolver from Ultrakill
+Added "Bronze"
+     crafted with a 2 copper / 1 tin bar ratio at a furnace
+Added "Bronze tools"
+     they are above tin tools but bellow iron tools
+
+
+
+
+
+-----1.3----- 15/09/2023
+
+Updated "Much Bigger GUN" and "Suppressed Much Bigger GUN"
+     Knockback decreased from 7 to 5
+Added "Music Box (Pillar Men Awaken)"
+     a music box that plays said theme from Jojo's
+     Bizarre Adventure
+     OMG IS THAT A MOTHAFACKIN JOJO
+     REFERENCE!!!??!??!
+Added "Grimace the Sniper Rifle"
+     uh, a sniper rifle upgrade aguess idk what i was 
+     thinking
+Added "Giga balls rifle"
+     a musket upgrade ????
+Added "KLANOBULLETBOMBA"
+     an item that when drank, farts 90 bullets around
+     the player lol
+Updated Festived Nutckracker Mk.II Shotgun FN's tooltip to "'tf_use_fixed_weaponspreads 1'"
+Added recipes to craft Scrap metal using the following weapons:
+     The Eyelander
+     Shotgun
+     Boomstick
+     Quad-Barrel Shotgun
+     Handgun
+     TheUndertaker
+     Musket
+     Minishark
+     Revolver
+     Flintlock Pistol
+Added "TownNpc silencer"
+     a sidegrade to the Suppressed pistol that can
+     damage town npcs (and the player!)
+Fixxed F.N.Mk.II FN and F.E.N.Mk.II FN being able to shoot
+through walls if their user was standing near a wall
+Added "Giga balls rifle with ext mag"
+     an upgrade to "Giga balls rifle"
+Added "Giga balls rifle with ext mag + bayonet"
+     you guessed it, indeed, although it's a sidegrade
+     instead, to "Giga balls rifle with ext mag"
+     not an upgrade, aguess?
+     (/HadAStroke)
+Added "Ol' Crappy"
+     an upgrade to RPG 7 made by Megalos
+     Paikths
+
+
+
+
+
+-----1.2----- 02/09/2023
+
+Added "Festived Nutcracker Mk.II Shotgun FN"
+     bro stop with the TF2 copy pastes
+Added "Nutcracker Wrench FN"
+     a melee weapon
+Changed The Eyelander's use and animation time from 40 to 35
+Added "RPG 7"
+     an rocket launcher optainable post-Plantera made by
+     Megalos Paikths
+Added "Dentraki"
+     a melee weapon obtainable early-Hardmode made by
+     Megalos Paikths
+Balanced most of the prices of the items from this mod
+Added Journey mode's research support for all items from this mod
+Added "Festived Explosive Nutcracker Mk.II Shotgun FN"
+     an upgrade to "Festived Nutcracker Mk.II Shotgun FN"
+     because why not
+Changed the description.txt file
+     replaced "RECENT UPDATES AND THEIR CONTENT" with
+     "CHANGE LOGS"
+Added "Music Box (Order)
+     a music box containing "Order", a music track from shouter
+     game ULTRAKILL
+     it also doesn't sound very good for some reason :(
+     "update": made it kinda better, (+12 dB, -3 Bass dB)
+     (then why didn't you delete the previous comments???????)
+     "UPDATE 2": I FIXXED IT XDXDXDXD (+7.5 dB, -2 Bass
+     dB)
+     it also was too loud :/
+
+
+
+
+
+-----1.1----- 26/08/2023
+
+Aluminium ore can now be placed
+Aluminium ore can now generate in new worlds
+Removed Aluminium ore's tooltip
+Removed Aluminium Bar's tooltip
+Fixed Much Bigger GUN's sprite
+Added "Suppressed Much Bigger GUN"
+     you can guess what this is
+     (for the illiterates, it's the suppressed 'upgrade' of Much
+      Bigger GUN)
+Fixxed suppressed weapons' shoot sound interfering with the
+bullet hit tile sound
+Added "POOTS GUN"
+     uh yea no
+Added "The Eyelander"
+     a mid Hardmode melee weapon 
+     (Yes it's the one from TF2)
+     (No, it doesn't give you buffs per kill:(    )
+Added "Scrap Metal"
+     a material and somehow currency
+Added "Reclaimed Metal"
+     another material and somehow currency
+Added "Refined Metal"
+    YET Another material and more "stable" currency
+    Btw as the time of writting this the key prices are at 50 ref
+    buy and 50.66 ref sell (somefucking how, thanks backpack.tf
+    bots?)
+
+
+
+
+
+-----1.0----- 24/08/2023
+
+Added "basiko spa8i"
+     the basic modded sword (waw)
+Added "Spa8ara"
+     a melee weapon optainable in early hardmode
+Added "Much Bigger GUN"
+     a ranged weapon obtainable in early hardmode
+Added "Blue Sworod?"
+     an unused melee weapon
+Added "Toilet Paper"
+     a silly material
+Added "Toilet dipped Muramasa"
+     a Muramasa upgrade
+Added "Hell Bullet"
+     a type of bullet
+Added "Endless Hell Bullet Bag"
+     an unconsumable "Hell Bullet" ammo item
+Added "AMABATAKAM's fishing pole"
+     an overpowered fishing rod craftable after obtaining a
+     golden fishing pole
+Added "Suspiciously smelly bar"
+     a suspicious metal bar crafted with iron or lead
+Added "Colt m1911"
+     an upgrade to the handgun
+Added "Bullet thrower 1.0"
+     a bullet thrower (haha very funny)
+Added "Desert eagle"
+     a rather strong pistol obtainable in early hardmode
+Added "Suppressed pistol"
+     a silent pistol obtainable in early hardmode
+Added "Grimace Bullet"
+     a "Hell Bullet" upgrade (lol grimace)
+Added "Anemistouri"
+     an item made by "Megalos Paikths"
+Added "Feral Slap"
+     an melee weapon made by "Megalos Paikths". It is a slap
+     hand upgrade
+Added "Kala Xristougenna"
+     a melee weapon made by "Megalos Paikths". It is a slap hand
+     upgrade
+Added "Ta Karato"
+     a melee weapon made by "Megalos Paikths". It's crafted
+     using the fuzzy carrot
+Added "Endless Grimace Bullet Bag"
+     an uncosumable "Grimace Bullet" ammo item
+Added "Suppressor"
+     a material to 'upgrade' a few weapons
+Added "Aluminium bar"
+     a metal bar used for crafting
+Added "Aluminium ore"
+     an ore that is crafted via boiling iron or lead to craft
+     Aluminium bars
+Added "Giga bota"
+     a ultrabroken terraspark boots upgrade available post Moon
+     Lord
+Added "Stop sign"
+     a very stable movement accessory
+Added "Adrenaline hands"
+     an accessory that gives 300% melee swing speed
+Added "Very That'sAlotOfDamage melee"
+     an accessory that gives triple melee damage
+Added "Strong af breastplate"
+     an accessory similar to the ankh shield but with more to it
+Added "Party Cat's blessing"
+     a post moonlord accessory that gives the user's held items
+     zero use time
