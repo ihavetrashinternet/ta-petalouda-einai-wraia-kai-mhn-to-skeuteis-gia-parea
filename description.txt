@@ -1,0 +1,4 @@
+Due to tmodloader not liking the length of the original description, i will only put here the basic information:
+
+Current Terraria Tmodloader version: 1.4.3.6
+Current Mod version: -----1.4----- 19/10/2023
